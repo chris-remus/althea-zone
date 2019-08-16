@@ -44,6 +44,8 @@ FORKING BLOCK: <to be determined>
 
 ### Step 2
 
+Make sure you are running gaia version [TBD - Jehan, what version and can you please link to it?].
+
 Stop any existing `gaiad` process and run `gaiad export --for-zero-height --height=<forking block from step 1 above> > altheatest3_genesis_export.json`
 
 ### Step 3
